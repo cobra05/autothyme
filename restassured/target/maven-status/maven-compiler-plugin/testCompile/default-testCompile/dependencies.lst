@@ -1,0 +1,16 @@
+classpath:C:\Users\sibym\projects\API-java-automation\APIautomation1\restassured\target\classes	1:49ac78155173ff54b4e505d4ed23da38d507aa45d8791cc2dbe00ca8e0c9bc98
+classpath:C:\Users\sibym\.m2\repository\io\rest-assured\rest-assured\5.5.1\rest-assured-5.5.1.jar	746572:1794070255842
+classpath:C:\Users\sibym\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar	7601005:1794070256996
+classpath:C:\Users\sibym\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar	212580:1794070256146
+classpath:C:\Users\sibym\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar	780321:1794070256508
+classpath:C:\Users\sibym\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar	328593:1794070256217
+classpath:C:\Users\sibym\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar	61829:1404583945000
+classpath:C:\Users\sibym\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar	335042:1793476406995
+classpath:C:\Users\sibym\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar	41790:1794070256067
+classpath:C:\Users\sibym\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar	123360:1794070256192
+classpath:C:\Users\sibym\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar	90722:1794070256216
+classpath:C:\Users\sibym\.m2\repository\io\rest-assured\json-path\5.5.1\json-path-5.5.1.jar	59526:1794070256269
+classpath:C:\Users\sibym\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar	130015:1794070256348
+classpath:C:\Users\sibym\.m2\repository\io\rest-assured\rest-assured-common\5.5.1\rest-assured-common-5.5.1.jar	52215:1794070256321
+classpath:C:\Users\sibym\.m2\repository\io\rest-assured\xml-path\5.5.1\xml-path-5.5.1.jar	80741:1794070256379
+classpath:C:\Users\sibym\.m2\repository\org\apache\commons\commons-lang3\3.16.0\commons-lang3-3.16.0.jar	674238:1722515068000
